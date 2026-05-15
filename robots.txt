@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jonasnav.github.io/resources-87xd2s/sitemap.xml
